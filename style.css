@@ -4,10 +4,10 @@ body { background-color: #E6E6FA;
     font-family: Arial, Verdana, sans-serif;
 }
 h1 { background-color: #191970; 
-color: #E6E6EA; 
-font-family: Georgia, "Times New Roman", serif;
-line-height: 200%;
-text-shadow: 3px 3px 5px #CCCCCC;
+    color: #E6E6EA; 
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 200%;
+    text-shadow: 3px 3px 5px #CCCCCC;
 }
 h2 {background-color: #AEAED4;
     color: #191970;
